@@ -19,9 +19,9 @@ As shown below, the inferred masks predicted by our segmentation model trained b
 <br><br>
 <table >
 <tr>
-<th>Input: image</th>
-<th>Mask (ground_truth)</th>
-<th>Prediction:inferred_mask</th>
+<th width="320" height="20">Input: image</th>
+<th width="320" height="20">Mask (ground_truth)</th>
+<th width="320" height="20">Prediction:inferred_mask</th>
 </tr>
 <tr>
 <td><img src="./projects/TensorFlowFlexUNet/Breast-Cancer-Preprocessed/mini_test/images/B_10120.png" width="320" height="auto"></td>
@@ -95,7 +95,7 @@ CC0: Public Domain
 2.1 Download ImageMask Dataset
 </h3>
  If you would like to train this Breast-Cancer-Preprocessed Segmentation model by yourself,
-please down load our dataset <a href="https://drive.google.com/file/d/1MEHEQ46jKuUwo1O8hW4ihQtbdJYQai7c/view?usp=sharing">
+please download our dataset <a href="https://drive.google.com/file/d/1MEHEQ46jKuUwo1O8hW4ihQtbdJYQai7c/view?usp=sharing">
 <b>Augmented-Breast-Cancer-Preprocessed-ImageMask-Dataset.zip</b> 
 </a>(<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>) 
  on the google drive,
